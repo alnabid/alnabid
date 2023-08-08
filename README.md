@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+As I'm writing this, my head is empty, yet full of thoughts I can't translate to human language.
+
+btw i do coding and stuff, probably lol
