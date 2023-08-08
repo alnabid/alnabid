@@ -24,3 +24,4 @@ ok so i do html, css
 
 
 I wanna leave all these and become batman one day :weary:
+###### am i too goofy..? :thinking:
