@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello? Whose profile is this..?
 
 <!--
 **alnabid/alnabid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# I'm, in short, just nabid. 17 years right now.
 
 As I'm writing this, my head is empty, yet full of thoughts I can't translate to human language.
 
 btw i do coding and stuff, probably lol
+ok so i do html, css
+
+
+
+I wanna leave all these and become batman one day :weary:
