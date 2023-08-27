@@ -16,12 +16,9 @@ Here are some ideas to get you started:
 -->
 # I'm, in short, just nabid. 17 years right now.
 
-As I'm writing this, my head is empty, yet full of thoughts I can't translate to human language.
-
-btw i do coding and stuff, probably lol
-ok so i do html, css
 
 
 
-I wanna leave all these and become batman one day :weary:
+
+exhausting :weary:
 ###### am i too goofy..? :thinking:
