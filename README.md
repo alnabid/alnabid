@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm, in short, just nabid. 17 years right now.
+# I'm, in short, just nabid.
 
 
 
