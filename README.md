@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 ![alnabid](https://github-readme-stats.vercel.app/api/top-langs/?username=alnabid&layout=compact&theme=radical)
 
-![wakatime](https://wakatime.com/badge/user/1d2b53a4-2320-4851-8064-1cd0c9ef4460.svg)
+![image](https://github.com/alnabid/alnabid/assets/54846794/083685da-dcbb-48f4-9df7-578655f87465)
+
 
 exhausting :weary:
 ###### am i too goofy..? :thinking:
