@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![alnabid](https://github-readme-stats.vercel.app/api/top-langs/?username=alnabid&layout=compact&theme=radical)
 
-![image](https://github.com/alnabid/alnabid/assets/54846794/083685da-dcbb-48f4-9df7-578655f87465)
+[![wakatime](https://wakatime.com/badge/user/018c4472-2c45-47cf-a49b-f4263cff0672.svg)](https://wakatime.com/@018c4472-2c45-47cf-a49b-f4263cff0672)
 
 
 exhausting :weary:
