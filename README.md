@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # I'm, in short, just nabid.
-### frontEnd Web Developer | JavaScript
+#### frontEnd Web Developer | JavaScript
 I'm an experienced web developer building websites for all kinds of businesses. Whether you want to build a portfolio, an online store, a showcase for your services or products, a landing page or if you want someone to collaborate in your projects, I can help.
 
-**Here is my website portfolio:** https://alnabidportfolio.netlify.com/
+### **Here are some of my projects:** 
+- Responsive Functional Landing Page: https://alnabid.github.io/landing-page-sample
+- Fun click the correct box game with JS: https://alnabid.github.io/click-correct-box
 
-## _Skills_
+### _Skills_
 - HTML & CSS
 - JS
 - Vue.js
