@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 # I'm, in short, just nabid.
 ### frontEnd Web Developer | JavaScript
+I'm an experienced web developer building websites for all kinds of businesses. 
+**Here is my website portfolio:** https://alnabidportfolio.netlify.com/
 
 ## _Skills_
 - HTML & CSS
