@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 # I'm, in short, just nabid.
 ### frontEnd Web Developer | JavaScript
-I'm an experienced web developer building websites for all kinds of businesses. 
+I'm an experienced web developer building websites for all kinds of businesses. Whether you want to build a portfolio, an online store, a showcase for your services or products, a landing page or if you want someone to collaborate in your projects, I can help.
+
 **Here is my website portfolio:** https://alnabidportfolio.netlify.com/
 
 ## _Skills_
