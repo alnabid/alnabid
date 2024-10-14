@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 - Bootstrap
 - Sass/Scss
 
+<!-- ![alnabid](https://github-readme-stats.vercel.app/api/top-langs/?username=alnabid&layout=compact&theme=radical)
 
-![alnabid](https://github-readme-stats.vercel.app/api/top-langs/?username=alnabid&layout=compact&theme=radical)
-
-<!-- [![wakatime](https://wakatime.com/badge/user/018c4472-2c45-47cf-a49b-f4263cff0672.svg)](https://wakatime.com/@018c4472-2c45-47cf-a49b-f4263cff0672) -->
+[![wakatime](https://wakatime.com/badge/user/018c4472-2c45-47cf-a49b-f4263cff0672.svg)](https://wakatime.com/@018c4472-2c45-47cf-a49b-f4263cff0672) -->
 
 ###### Focus. Commitment. 💙
